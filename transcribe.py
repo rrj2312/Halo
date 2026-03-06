@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 import os
 import tempfile
 from groq import Groq
