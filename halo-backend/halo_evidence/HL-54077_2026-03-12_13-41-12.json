@@ -1,0 +1,10 @@
+{
+  "evidence_id": "HL-54077",
+  "timestamp": "2026-03-12_13-41-12",
+  "mode": "cab",
+  "sha256_hash": "7476921aab4bd9ae3cfe1b51f1fabc3d453df8183a956bbeba7f00418e99c732",
+  "app": "halo-safety",
+  "admissible_note": "Audio hash verified. Unmodified since capture.",
+  "stored_locally": true,
+  "supabase_error": "Expecting value: line 1 column 1 (char 0)"
+}
